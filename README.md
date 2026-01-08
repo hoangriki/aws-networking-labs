@@ -46,7 +46,7 @@ Each part contains:
 - [x] Part 0 – Introduction & AWS Setup
 - [x] Part 1 – Build a Virtual Private Cloud
 - [x] Part 2 – VPC Traffic Flow and Security
-- [ ] Part 3 – Creating a Private Subnet
+- [x] Part 3 – Creating a Private Subnet
 - [ ] Part 4 – Launching VPC Resources
 - [ ] Part 5 – Testing VPC Connectivity
 - [ ] Part 6 – VPC Peering
