@@ -47,9 +47,9 @@ Each part contains:
 - [x] Part 1 – Build a Virtual Private Cloud
 - [x] Part 2 – VPC Traffic Flow and Security
 - [x] Part 3 – Creating a Private Subnet
-- [ ] Part 4 – Launching VPC Resources
-- [ ] Part 5 – Testing VPC Connectivity
-- [ ] Part 6 – VPC Peering
+- [x] Part 4 – Launching VPC Resources
+- [x] Part 5 – Testing VPC Connectivity
+- [x] Part 6 – VPC Peering
 - [ ] Part 7 – VPC Monitoring with Flow Logs
 - [ ] Part 8 – Access S3 from a VPC
 - [ ] Part 9 – VPC Endpoints
