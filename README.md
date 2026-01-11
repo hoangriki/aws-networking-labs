@@ -57,7 +57,6 @@ Each part contains:
 ## 🛠 Tools & Technologies
 - AWS (VPC, EC2, IAM, S3, CloudWatch)
 - AWS Console
-- draw.io (architecture diagrams)
 - Git & GitHub
 
 ## 📌 Notes
