@@ -51,7 +51,7 @@ Each part contains:
 - [x] Part 5 – Testing VPC Connectivity
 - [x] Part 6 – VPC Peering
 - [x] Part 7 – VPC Monitoring with Flow Logs
-- [ ] Part 8 – Access S3 from a VPC
+- [x] Part 8 – Access S3 from a VPC
 - [ ] Part 9 – VPC Endpoints
 
 ## 🛠 Tools & Technologies
