@@ -52,7 +52,7 @@ Each part contains:
 - [x] Part 6 – VPC Peering
 - [x] Part 7 – VPC Monitoring with Flow Logs
 - [x] Part 8 – Access S3 from a VPC
-- [ ] Part 9 – VPC Endpoints
+- [x] Part 9 – VPC Endpoints
 
 ## 🛠 Tools & Technologies
 - AWS (VPC, EC2, IAM, S3, CloudWatch)
